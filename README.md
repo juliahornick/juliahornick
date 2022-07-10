@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, this is Julia! 👋
+
+👩🏼‍💻 Working as a data scientist 
+
+🎓 Gratuated in engineering
+
+📚 Master's degree student in Applied Computing 
+
+📊 Machine learning, excel, English, dash python, R, data visualization, SQL, Jupyter notebook, pandas, numpy, plotly, scikit-learn, feature selection and feature engineering.
 
 <div align="center">
   <a href="https://github.com/juliahornick">
