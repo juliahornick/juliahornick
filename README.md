@@ -1,4 +1,4 @@
-### Hi there, this is Julia! 👋
+### Hi there, this is Julia! 💫 
 
 
 <div align="center">
