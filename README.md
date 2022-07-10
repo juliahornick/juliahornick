@@ -1,7 +1,7 @@
 ### Hi there, this is Julia! 💫 
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/juliahornick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliahornick&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>  
   
