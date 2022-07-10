@@ -13,10 +13,10 @@
 <img align="center" alt="Julia-py" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="center" alt="Julia-py" height="50" width="70"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
-<img align="center" alt="Julia-py" height="50" width="70"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" />
-<img align="center" alt="Julia-py" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-plain.svg" />
+<img align="center" alt="Julia-py" height="50" width="70"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+<img align="center" alt="Julia-py" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 <img align="center" alt="Julia-py" height="50" width="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-  <a href="https://www.linkedin.com/in/juliahornick" target="_blank"><img align="center" alt="Julia-py" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" target="_blank"></a>     
+  <a href="https://www.linkedin.com/in/juliahornick" target="_blank"><img align="center" alt="Julia-py" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" target="_blank"></a>     
           
           
 </div>
