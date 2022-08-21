@@ -14,8 +14,6 @@
 
 ##### 🎓 Gratuated in engineering
 
-##### 📚 Master's degree student in Applied Computing 
-
 ##### 📊 Machine learning, excel, English, dash python, R, data visualization, SQL, Jupyter notebook, pandas, numpy, plotly, scikit-learn, feature selection and feature engineering.
 
 *If you'd like, you can get in touch with me through my linkedin profile, the link is right below.*
